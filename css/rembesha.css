@@ -11,7 +11,7 @@
 }
 
 .profile aside p {
-	font-size: 12px;
+	font-size: 14px;
 }
 
 .profile aside ul li{
@@ -24,9 +24,13 @@
 	padding: 0;
 }
 
-.profile aside ul {
-	content: "";
-	display: block;
-	clear: both;
+.josembi li img {
+	height: 28px;
+	width: 28px;
+
 }
+
+
+
+
 
