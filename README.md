@@ -4,18 +4,21 @@
 
 Everytime I never cease to astound myself with the beauty of [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails). 
 
-This Framework does really save time when it comes to building web applications and it's been interwoven in the main web develoment platforms. I have just completed the [Frontend Design](https://en.wikipedia.org/wiki/Front-end_web_development) of this application using [Bootstrap](http://getbootstrap.com/) which is really a cool way to do things.
+I first developed the Frontend with [Bootstrap](http://getbootstrap.com/), did the necessary pages, user functionality (UXD / UID), and now I'm currently doing the backend with Ruby on Rails.
+
 
 Bootstrap uses a [Content Delivery Network (CDN)](https://en.wikipedia.org/wiki/Content_delivery_network) as well as Local Framework files which can be linked via stylesheets in your project and deliver the same functionality with ease. I used a CDN in my project cos I have broadband :-). When working with clients across the globe, using local files would be way easier espeially the minified versions which will guarantee the projects functionality with or without internet. 
 
 ## Why Bootstrap
 
-It's amazing. Why use Vanilla JS and/or Vanilla CSS if you can use Bootstrap?
-The Frontend of this application is 90% done with Bootstrap but I decided to add my own custom CSS stylesheets. My aim was to use Ruby on Rails together with Bootstrap and not make the page super responsive and extremely sexy. The backend will be done with Ruby on Rails to allow submission of forms and communication between servers. 
+This Framework does really save time when it comes to building web applications and it works pretty well with Ruby on Rails which is been interwoven in the main web development platforms. I have just completed the [Frontend Design](https://en.wikipedia.org/wiki/Front-end_web_development) of this application using Bootstrap which is really a cool.
+
+Why use Vanilla JS and/or Vanilla CSS if you can use Bootstrap?
+The Frontend of this application is 90% done with Bootstrap but I decided to add my own custom CSS stylesheets to tweak the responsiveness. My main aim was to use Ruby on Rails together with Bootstrap and not make the page super responsive and extremely sexy. The backend is been done with Ruby on Rails to allow submission of forms and communication between servers, etc. 
 
 # Technologies Used.
 
-## 1. Boostsrap.
+## 1. Bootstrap.
 
 
 [![Slack](https://bootstrap-slack.herokuapp.com/badge.svg)](https://bootstrap-slack.herokuapp.com)
@@ -39,6 +42,23 @@ To get started, check out <https://getbootstrap.com>!
 For transparency into our release cycle and in striving to maintain backward compatibility, Bootstrap is maintained under [the Semantic Versioning guidelines](http://semver.org/). Sometimes we screw up, but we'll adhere to those rules whenever possible.
 
 See [the Releases section of our GitHub project](https://github.com/twbs/bootstrap/releases) for changelogs for each release version of Bootstrap. Release announcement posts on [the official Bootstrap blog](https://blog.getbootstrap.com) contain summaries of the most noteworthy changes made in each release.
+
+### What's included
+
+If you are not using a CDN, 
+
+```
+bootstrap/
+├── css/
+│   ├── bootstrap.css
+│   ├── bootstrap.css.map
+│   ├── bootstrap.min.css
+│   └── bootstrap.min.css.map
+└── js/
+    ├── bootstrap.js
+    └── bootstrap.min.js
+```
+
 
 ## Developer
 
