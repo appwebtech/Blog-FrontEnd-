@@ -1,9 +1,11 @@
-#  Simple Blog in Bootstrap (Frontend) and Ruby on Rails (Backend)
+#  A Blog in Bootstrap and Ruby on Rails 
+
+Due to Separation of Concerns (SoC), This Blog will run on Bootstrap on the Client-side or Frontend (UXD & UID) and Ruby on Rails on the Server-side or Backend (Data Accessibility, Security, etc).
 
 
 ## Synopsis of Software Development and Design for this Project.
 
-I have developed this blog's Frontend (UXD & UID) with [Twitter Bootstrap 3](http://getbootstrap.com/) and the backend will run on [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails). That means that this is one of two separate projects which will be merged together to complete the 'mega' project and enhance it's functionalities.
+I have developed the blog's Frontend with [Twitter Bootstrap 3](http://getbootstrap.com/) and the Backend will run on [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails). That means that this is one of two separate projects which will be merged together to complete the 'mega' project and enhance it's functionalities.
 
 The hard coding we used to do with Vanilla JS has really been phased off by Bootstrap due to it's [RWD](https://en.wikipedia.org/wiki/Responsive_web_design) abilities, CDN,  and it's ability to save time; making it an absolute tool in enhancing the UXD and UID. 
 
@@ -13,12 +15,13 @@ As noted above, I used Bootstrap 3 and as we speak, [Bootstrap 4.0.0 Alpha.5](ht
 
 The most important things to point out that I observed during the Project as far as Frontend Development is concerned are the following; 
 
-<<ol>
+#### Design Guidelines I used.
+<ol>
     <li>Maintainalibility of the Blog</li>
     <li>SEO</li>
     <li>Security</li>
     <li>Progressive Enhancement</li>
-    <li>Stylesheets & Styling</li>
+    <li>Stylesheets and Styling</li>
     <li>Accessibility (Assistive Technology)</li>
     <li>International Standards</li>
     <li>Graceful Degradation</li>
@@ -36,7 +39,7 @@ The Frontend of this application is 90% done with Bootstrap but I decided to add
 
 # Technologies Used.
 
-## 1. Bootstrap.
+##  Bootstrap.
 
 
 [![Slack](https://bootstrap-slack.herokuapp.com/badge.svg)](https://bootstrap-slack.herokuapp.com)
