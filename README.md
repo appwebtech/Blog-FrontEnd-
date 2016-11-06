@@ -15,7 +15,7 @@ As noted above, I used Bootstrap 3 and as we speak, [Bootstrap 4.0.0 Alpha.5](ht
 
 The most important things to point out that I observed during the Project as far as Frontend Development is concerned are the following; 
 
-#### Design Guidelines I used.
+## Design Guidelines I used.
 <ol>
     <li>Maintainalibility of the Blog</li>
     <li>SEO</li>
