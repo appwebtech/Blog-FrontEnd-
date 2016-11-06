@@ -1,13 +1,31 @@
-# Ruby on Rails with Bootstrap
+#  Simple Blog in Bootstrap (Frontend) and Ruby on Rails (Backend)
+
 
 ## Synopsis of Software Development and Design for this Project.
 
-Everytime I never cease to astound myself with the beauty of [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails). 
+I have developed this blog's Frontend (UXD & UID) with [Twitter Bootstrap 3](http://getbootstrap.com/) and the backend will run on [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails). That means that this is one of two separate projects which will be merged together to complete the 'mega' project and enhance it's functionalities.
 
-I first developed the Frontend with [Bootstrap](http://getbootstrap.com/), did the necessary pages, user functionality (UXD / UID), and now I'm currently doing the backend with Ruby on Rails.
+The hard coding we used to do with Vanilla JS has really been phased off by Bootstrap due to it's [RWD](https://en.wikipedia.org/wiki/Responsive_web_design) abilities, CDN,  and it's ability to save time; making it an absolute tool in enhancing the UXD and UID. 
+
+Bootstrap uses a [Content Delivery Network (CDN)](https://en.wikipedia.org/wiki/Content_delivery_network) as well as Local Framework files which can be linked via stylesheets in your project and deliver the same functionality with ease. I used a CDN in my project cos I have broadband :-). When working with clients across the globe, using local files would be way easier espeially the minified versions which will guarantee the projects functionality even with slow internet conections. 
+
+As noted above, I used Bootstrap 3 and as we speak, [Bootstrap 4.0.0 Alpha.5](https://v4-alpha.getbootstrap.com/) is already in use but been an Alpha version, there is still some time to go before the final version is released. Alpha.5 was released in September 2016 and we are still waiting for the Beta. I have used Alpha.5 in some projects and there are still some bugs to be fixed. In my opinion, Bootstrap 3 will continue to be supported as long as it takes and migrating wont be a big deal because it's structure is not so diverse like AngularJS 1 to AngularJS 2.
+
+The most important things to point out that I observed during the Project as far as Frontend Development is concerned are the following; 
+
+<<ol>
+    <li>Maintainalibility of the Blog</li>
+    <li>SEO</li>
+    <li>Security</li>
+    <li>Progressive Enhancement</li>
+    <li>Stylesheets & Styling</li>
+    <li>Accessibility (Assistive Technology)</li>
+    <li>International Standards</li>
+    <li>Graceful Degradation</li>
+
+</ol>
 
 
-Bootstrap uses a [Content Delivery Network (CDN)](https://en.wikipedia.org/wiki/Content_delivery_network) as well as Local Framework files which can be linked via stylesheets in your project and deliver the same functionality with ease. I used a CDN in my project cos I have broadband :-). When working with clients across the globe, using local files would be way easier espeially the minified versions which will guarantee the projects functionality with or without internet. 
 
 ## Why Bootstrap
 
@@ -65,6 +83,7 @@ bootstrap/
 Development done by;
 
 Joseph M Mwania. 
+
 ## Contacts
 
 
@@ -79,3 +98,5 @@ https://www.facebook.com/theappwebtech/
 https://it.pinterest.com/appwebtech/
 
 ## License
+
+MIT License. Copyright 2016 Appwebtech. http://theappwebtech.com
